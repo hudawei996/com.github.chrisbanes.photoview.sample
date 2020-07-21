@@ -1,6 +1,8 @@
 # PhotoView
 PhotoView aims to help produce an easily usable implementation of a zooming Android ImageView.
 
+Please download the release .aar file import to your project ,original repository not support androidx
+
 [![](https://jitpack.io/v/chrisbanes/PhotoView.svg)](https://jitpack.io/#chrisbanes/PhotoView)
 
 ## Dependency
